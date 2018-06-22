@@ -1,2 +1,2 @@
 # python_study
-shang chuan dai ma
+talk is cheap ,show me your code
